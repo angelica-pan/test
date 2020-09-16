@@ -5,7 +5,7 @@
 PennController.ResetPrefix(null)
 
 // Turn off debugger
-// DebugOff()
+DebugOff()
 
 newTrial("experimental-trial",
     defaultText
